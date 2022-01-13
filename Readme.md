@@ -1,1 +1,1 @@
-Desenvolvendo a descrição
+Desenvolvendo a descrição do projeto.

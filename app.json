@@ -1,0 +1,20 @@
+{
+  "name": "rentx",
+  "displayName": "rentx",
+  "expo": {
+    "name": "rentx",
+    "slug": "rentx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B1B1F"
+    },
+    "android": {
+      "package": "com.ericviinny.rentx"
+    }
+  }
+}
