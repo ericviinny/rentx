@@ -7,7 +7,7 @@
 <p>Veja o layout do projeto no <a href="https://www.figma.com/file/yaKqeidZXnJa2naeIx2Xf7/RentX-Ignite---Offline-First?node-id=0%3A1" target="__blank">figma</a>.</p>
 
 <h2><b>🚧 Tecnologias Utilizadas</b></h2>
-<p>Veja abaixo todas tecnologias utilizadas no projeto.</p>
+<p>Veja abaixo as principais tecnologias utilizadas no projeto.</p>
 
 <ul>
   <li><a href="https://reactnative.dev/">React Native</a></li>
@@ -78,4 +78,4 @@ $ https://github.com/ericviinny/
 
 Este projeto está sob a licença do MIT. Para maiores informações acesse o arquivo <a href="https://github.com/ericviinny/ericviinny/blob/main/LICENSE">LICENÇA</a>.
 <hr>
-<p align="center">Feito por 💜  Eric Vinicius 👋 <a href="https://www.linkedin.com/in/ericviinny/" target="__blank">linkedin</a></p>
+<p align="center">Feito por 💜  Eric Vinicius 👋 <a href="hhttps://www.linkedin.com/in/ericviinny/" target="__blank">linkedin</a></p>
