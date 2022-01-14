@@ -74,7 +74,6 @@ $ yarn android ou yarn ios
 $ https://github.com/ericviinny/
 ```
 
-![image](https://user-images.githubusercontent.com/28011941/116101582-52348680-a684-11eb-91ad-d29977fc7be7.png)
 <h2><b>📝 Licença</b></h2>
 
 Este projeto está sob a licença do MIT. Para maiores informações acesse o arquivo <a href="https://github.com/ericviinny/ericviinny/blob/main/LICENSE">LICENÇA</a>.
