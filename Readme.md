@@ -78,4 +78,4 @@ $ https://github.com/ericviinny/
 
 Este projeto está sob a licença do MIT. Para maiores informações acesse o arquivo <a href="https://github.com/ericviinny/ericviinny/blob/main/LICENSE">LICENÇA</a>.
 <hr>
-<p align="center">Feito por 💜  Eric Vinicius 👋 <a href="https://www.linkedin.com/in/eric-vinicius-nascimento-6215b8205/" target="__blank">linkedin</a></p>
+<p align="center">Feito por 💜  Eric Vinicius 👋 <a href="https://www.linkedin.com/in/ericviinny/" target="__blank">linkedin</a></p>
